@@ -1,2 +1,1 @@
-# device_samsung_qcom-common
-https://thealaskalinuxuser.wordpress.com
+# slim_device_samsung_qcom-common
